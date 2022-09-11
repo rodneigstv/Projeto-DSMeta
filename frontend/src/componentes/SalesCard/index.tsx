@@ -76,7 +76,7 @@ function SalesCard() {
                                             <NotificationButton saleId={sale.id} />
                                         </div>
                                     </td>
-                                </tr>)
+                                </tr>);
                             })}
                        
                     </tbody>
